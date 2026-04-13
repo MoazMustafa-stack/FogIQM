@@ -45,3 +45,9 @@ The simulation produces the following **printed tables** and **saved plots**:
 ## Citation
 
 If you use this code, please cite the associated paper *"FogIQM: A Fog-Assisted Internet Quality Monitoring System for Latency-Optimized IoT Networks"*.
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the `LICENSE` file for details.
